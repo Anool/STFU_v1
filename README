@@ -1,5 +1,7 @@
 Anool J M : anool.m@gmail.com
 
+<< inspired by an original idea from Ranjeet Walunj, @iMayavi)
+
 1. STFU is an Arduino controlled Visual Indicator for Vehicles.
 2. When the STFU button is pressed, it uses a SERVO to raise up a "graphic" element and a set of LED's to light up the "graphic" element for a pre-determined time.
 3. One bank of eight LED's can be individually controlled to perform patterns such as running lights.
