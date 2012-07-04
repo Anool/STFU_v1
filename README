@@ -7,3 +7,4 @@ Anool J M : anool.m@gmail.com
 3. One bank of eight LED's can be individually controlled to perform patterns such as running lights.
 4. The balance 22 LED's can be controlled as a second block with PWM patterns.
 5. A 3 to 8 way multiplexer allows us to control 8 LED's using 3 control pins.
+6. To view projcect files, you need KiCad. All KiCad files are plain text, but it won't make much sense opening them in a Text Editor.
