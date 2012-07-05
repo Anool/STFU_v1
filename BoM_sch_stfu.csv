@@ -77,6 +77,10 @@ K4	SERVO	pin_strip_3
 K5	V_SEL	pin_strip_3
 P1	CONN_1	vite_3mm
 P2	CONN_1	vite_3mm
+P3	HAND_HI	
+P4	HAND_LO	
+P5	HAND_HI	
+P6	HAND_LO	
 PCB1	PCB	PCB
 Q1	PNP	
 R1	10k	RC03
