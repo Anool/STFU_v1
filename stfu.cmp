@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Saturday 07 July 2012 10:28:58 PM IST
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Sunday 08 July 2012 08:19:26 PM IST
 
 BeginCmp
 TimeStamp = /4FF29B6C;
@@ -572,6 +572,13 @@ TimeStamp = /4FF54CF4;
 Reference = P6;
 ValeurCmp = HAND_LO;
 IdModule  = pin_strip_6b;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF99A4C;
+Reference = P7;
+ValeurCmp = BATT_12V;
+IdModule  = bornier2;
 EndCmp
 
 BeginCmp

@@ -1,4 +1,4 @@
-update=Sunday 08 July 2012 01:20:23 AM IST
+update=Monday 09 July 2012 12:59:30 AM IST
 version=1
 last_client=kicad
 [eeschema]
@@ -56,7 +56,7 @@ DrawLar=150
 EdgeLar=150
 TxtLar=120
 MSegLar=150
-LastNetListRead=
+LastNetListRead=stfu.net
 [pcbnew/libraries]
 LibDir=
 LibName1=stfu_Libs/stfu_parts
