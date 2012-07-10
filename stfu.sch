@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Monday 09 July 2012 10:46:40 PM IST
+EESchema Schematic File Version 2  date 7/10/2012 6:15:56 PM
 LIBS:stfu
 LIBS:power
 LIBS:stfu-cache
@@ -8,7 +8,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 2
 Title "STFU - a warning for incessant Noise polluters"
-Date "8 jul 2012"
+Date "10 jul 2012"
 Rev "A"
 Comp "anool.m@gmail.com"
 Comment1 ""
@@ -727,7 +727,7 @@ P 8525 4200
 F 0 "P4" V 8475 4200 60  0000 C CNN
 F 1 "HAND_LO" V 8575 4200 60  0000 C CNN
 	1    8525 4200
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L CONN_6 P3
@@ -736,7 +736,7 @@ P 8525 3600
 F 0 "P3" V 8475 3600 60  0000 C CNN
 F 1 "HAND_HI" V 8575 3600 60  0000 C CNN
 	1    8525 3600
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Text Label 6600 5650 0    40   ~ 0
 LED_PWM

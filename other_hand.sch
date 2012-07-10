@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Monday 09 July 2012 10:46:40 PM IST
+EESchema Schematic File Version 2  date 7/10/2012 6:15:56 PM
 LIBS:stfu
 LIBS:power
 LIBS:stfu-cache
@@ -8,7 +8,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 2 2
 Title ""
-Date "8 jul 2012"
+Date "10 jul 2012"
 Rev ""
 Comp ""
 Comment1 ""
