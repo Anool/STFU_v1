@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 7/3/2012 5:26:36 PM
+EESchema-LIBRARY Version 2.3  Date: 7/3/2012 6:27:01 PM
 #encoding utf-8
 #
 # 74LS154
@@ -699,8 +699,8 @@ ENDDEF
 # LED
 #
 DEF LED D 0 40 Y N 1 F N
-F0 "D" 0 100 50 H V C CNN
-F1 "LED" 0 -100 50 H V C CNN
+F0 "D" 100 100 50 H V C CNN
+F1 "LED" -150 -50 50 H V C CNN
 $FPLIST
  LED-3MM
  LED-5MM

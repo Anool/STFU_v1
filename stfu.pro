@@ -1,4 +1,4 @@
-update=7/10/2012 6:36:57 PM
+update=Wednesday 11 July 2012 12:08:30 AM IST
 version=1
 last_client=kicad
 [eeschema]
@@ -42,9 +42,9 @@ NetIExt=net
 EquName1=devcms
 [pcbnew]
 version=1
-PadDrlX=400
-PadDimH=650
-PadDimV=650
+PadDrlX=0
+PadDimH=1500
+PadDimV=800
 BoardThickness=630
 TxtPcbV=800
 TxtPcbH=600

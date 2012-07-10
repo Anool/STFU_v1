@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 7/10/2012 6:15:56 PM
+EESchema Schematic File Version 2  date Wednesday 11 July 2012 12:08:17 AM IST
 LIBS:stfu
 LIBS:power
 LIBS:stfu-cache
