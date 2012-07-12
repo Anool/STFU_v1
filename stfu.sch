@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 7/12/2012 5:24:25 PM
+EESchema Schematic File Version 2  date Thursday 12 July 2012 10:52:48 PM IST
 LIBS:stfu
 LIBS:power
 LIBS:stfu-cache
@@ -16,10 +16,8 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Label 3500 2450 0    40   ~ 0
-ADC1
-Text Label 3500 2350 0    40   ~ 0
-ADC0
+Text Label 10775 5600 0    40   ~ 0
+GND_LH
 Wire Wire Line
 	3350 2450 3500 2450
 Wire Wire Line
@@ -27,7 +25,7 @@ Wire Wire Line
 Wire Wire Line
 	3925 2550 3925 1650
 Wire Wire Line
-	4300 1700 4300 725 
+	4300 725  4300 1700
 Wire Wire Line
 	4300 1700 4075 1700
 Wire Wire Line
@@ -70,7 +68,7 @@ Wire Wire Line
 Wire Wire Line
 	8175 4450 7925 4450
 Wire Wire Line
-	8175 4350 7925 4350
+	7925 4350 8175 4350
 Wire Wire Line
 	7925 4150 8175 4150
 Wire Wire Line
@@ -169,7 +167,7 @@ Wire Wire Line
 Wire Wire Line
 	5150 7325 5150 7225
 Wire Wire Line
-	4750 7225 4750 7325
+	4750 7325 4750 7225
 Wire Wire Line
 	5950 6725 5950 6825
 Wire Wire Line
@@ -207,9 +205,9 @@ Connection ~ 4550 725
 Wire Wire Line
 	4550 725  4550 800 
 Wire Wire Line
-	5100 1500 5100 725 
+	5100 725  5100 1500
 Wire Wire Line
-	5100 725  4300 725 
+	4300 725  5100 725 
 Connection ~ 10400 1375
 Wire Wire Line
 	10400 1125 10400 1375
@@ -228,7 +226,7 @@ Wire Wire Line
 Connection ~ 9275 1875
 Connection ~ 8825 775 
 Wire Wire Line
-	9675 875  9675 825 
+	9675 825  9675 875 
 Wire Wire Line
 	9675 1375 9675 1425
 Connection ~ 8825 1875
@@ -261,7 +259,7 @@ Wire Wire Line
 	1250 7025 650  7025
 Connection ~ 1175 6725
 Wire Wire Line
-	1175 6725 1175 6825
+	1175 6825 1175 6725
 Wire Wire Line
 	1175 6825 1250 6825
 Wire Wire Line
@@ -277,10 +275,10 @@ Wire Wire Line
 Wire Wire Line
 	1050 3650 1050 3500
 Wire Wire Line
-	2650 1650 2650 1600
+	2650 1600 2650 1650
 Connection ~ 600  2350
 Wire Wire Line
-	650  2550 600  2550
+	600  2550 650  2550
 Wire Wire Line
 	600  2550 600  1600
 Connection ~ 2350 1600
@@ -312,7 +310,7 @@ Connection ~ 1370 2750
 Wire Wire Line
 	3350 3250 3500 3250
 Wire Wire Line
-	2650 1600 1250 1600
+	1250 1600 2650 1600
 Wire Wire Line
 	700  3250 700  3050
 Connection ~ 1250 2550
@@ -407,7 +405,7 @@ Wire Wire Line
 Wire Wire Line
 	6150 7325 6150 7225
 Wire Wire Line
-	4950 7225 4950 7325
+	4950 7325 4950 7225
 Wire Wire Line
 	5350 7325 5350 7225
 Connection ~ 5350 7325
@@ -416,7 +414,7 @@ Wire Wire Line
 Connection ~ 5750 7325
 Connection ~ 6550 7325
 Wire Wire Line
-	6550 7325 6550 7225
+	6550 7225 6550 7325
 Wire Wire Line
 	6550 6725 6550 6825
 Wire Wire Line
@@ -440,7 +438,7 @@ Wire Wire Line
 Wire Wire Line
 	6350 7325 6350 7225
 Wire Wire Line
-	6750 7225 6750 7325
+	6750 7325 6750 7225
 Connection ~ 6350 7325
 Wire Wire Line
 	3025 6725 2825 6725
@@ -545,7 +543,7 @@ Wire Notes Line
 Wire Notes Line
 	3500 625  4750 625 
 Wire Wire Line
-	6750 7325 4750 7325
+	4750 7325 6750 7325
 Wire Notes Line
 	4600 7425 6900 7425
 Wire Wire Line
@@ -559,7 +557,7 @@ Wire Wire Line
 Wire Wire Line
 	8175 4250 7925 4250
 Wire Wire Line
-	7925 4350 7925 4550
+	7925 4550 7925 4350
 Connection ~ 7925 4450
 Wire Wire Line
 	9125 3350 9175 3350
@@ -603,6 +601,32 @@ Wire Wire Line
 	4000 2075 4000 1650
 Wire Wire Line
 	3500 2350 3350 2350
+Wire Wire Line
+	10700 5600 11050 5600
+$Comp
+L CONN_1 P9
+U 1 1 4FFF0455
+P 11050 5450
+F 0 "P9" V 10975 5375 40  0000 L CNN
+F 1 "CONN_1" H 11050 5505 30  0001 C CNN
+F 2 "vite_3mm" H 11050 5450 60  0001 C CNN
+	1    11050 5450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_1 P8
+U 1 1 4FFF0450
+P 10700 5450
+F 0 "P8" V 10625 5525 40  0000 L CNN
+F 1 "CONN_1" H 10700 5505 30  0001 C CNN
+F 2 "vite_3mm" H 10700 5450 60  0001 C CNN
+	1    10700 5450
+	0    -1   -1   0   
+$EndComp
+Text Label 3500 2450 0    40   ~ 0
+ADC1
+Text Label 3500 2350 0    40   ~ 0
+ADC0
 $Comp
 L CONN_1 TP5
 U 1 1 4FFEB9F9
@@ -1689,7 +1713,7 @@ $Comp
 L CONN_1 P1
 U 1 1 4FF29B58
 P 10700 5975
-F 0 "P1" V 10625 6000 40  0000 L CNN
+F 0 "P1" V 10625 6050 40  0000 L CNN
 F 1 "CONN_1" H 10700 6030 30  0001 C CNN
 F 2 "vite_3mm" H 10700 5975 60  0001 C CNN
 	1    10700 5975
