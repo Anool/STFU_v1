@@ -1,4 +1,4 @@
-update=7/11/2012 1:34:39 PM
+update=7/12/2012 5:25:10 PM
 version=1
 last_client=eeschema
 [cvpcb]
@@ -59,7 +59,7 @@ offY_E=0
 RptD_X=0
 RptD_Y=100
 RptLab=1
-LabSize=60
+LabSize=40
 [eeschema/libraries]
 LibName1=stfu_Libs/stfu
 LibName2=stfu_Libs/power
