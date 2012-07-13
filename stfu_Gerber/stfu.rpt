@@ -1,0 +1,5510 @@
+## Module report - date 7/13/2012 3:16:18 PM
+## Created by Pcbnew version pcbnew (2011-12-28 BZR 3254)-stable
+## Unit = inches, Angle = deg.
+##
+
+$BeginDESCRIPTION
+
+$BOARD
+unit INCH
+upper_left_corner  1.484900  1.234900
+lower_right_corner  7.515100  6.015100
+$EndBOARD
+
+$MODULE "R21"
+reference "R21"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  6.955000  3.175000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R21
+
+$MODULE "R32"
+reference "R32"
+value "100E"
+footprint "r_0805"
+attribut smd
+position  5.430000  4.800000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R32
+
+$MODULE "R37"
+reference "R37"
+value "100E"
+footprint "r_0805"
+attribut smd
+position  5.430000  2.800000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R37
+
+$MODULE "R36"
+reference "R36"
+value "100E"
+footprint "r_0805"
+attribut smd
+position  5.430000  3.200000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R36
+
+$MODULE "R35"
+reference "R35"
+value "100E"
+footprint "r_0805"
+attribut smd
+position  5.430000  3.600000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R35
+
+$MODULE "R34"
+reference "R34"
+value "100E"
+footprint "r_0805"
+attribut smd
+position  5.430000  4.000000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R34
+
+$MODULE "R33"
+reference "R33"
+value "100E"
+footprint "r_0805"
+attribut smd
+position  5.430000  4.400000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R33
+
+$MODULE "R31"
+reference "R31"
+value "100E"
+footprint "r_0805"
+attribut smd
+position  5.430000  5.200000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R31
+
+$MODULE "R30"
+reference "R30"
+value "100E"
+footprint "r_0805"
+attribut smd
+position  5.430000  5.600000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R30
+
+$MODULE "R19"
+reference "R19"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  6.437500  4.000000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R19
+
+$MODULE "R20"
+reference "R20"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  6.955000  4.000000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R20
+
+$MODULE "R22"
+reference "R22"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  6.955000  2.375000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R22
+
+$MODULE "R23"
+reference "R23"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  6.955000  1.952500
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R23
+
+$MODULE "R24"
+reference "R24"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  6.180000  3.340000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R24
+
+$MODULE "R25"
+reference "R25"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  6.180000  2.550000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R25
+
+$MODULE "D59"
+reference "D59"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  5.625000  3.000000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D59
+
+$MODULE "D31"
+reference "D31"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  6.375000  1.950000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D31
+
+$MODULE "D30"
+reference "D30"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  7.150000  2.175000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D30
+
+$MODULE "D29"
+reference "D29"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  7.150000  2.575000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D29
+
+$MODULE "D28"
+reference "D28"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  7.150000  2.975000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D28
+
+$MODULE "D27"
+reference "D27"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  7.150000  3.375000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D27
+
+$MODULE "D26"
+reference "D26"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  7.150000  3.775000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D26
+
+$MODULE "D25"
+reference "D25"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  7.050000  4.175000
+orientation  90.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D25
+
+$MODULE "D24"
+reference "D24"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  6.650000  4.175000
+orientation  90.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D24
+
+$MODULE "D23"
+reference "D23"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  6.250000  4.175000
+orientation  90.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D23
+
+$MODULE "D45"
+reference "D45"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  5.625000  5.800000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D45
+
+$MODULE "D55"
+reference "D55"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  5.625000  3.800000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D55
+
+$MODULE "D53"
+reference "D53"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  5.625000  4.200000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D53
+
+$MODULE "D32"
+reference "D32"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.875000  1.950000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D32
+
+$MODULE "D51"
+reference "D51"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  5.625000  4.600000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D51
+
+$MODULE "D49"
+reference "D49"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  5.625000  5.000000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D49
+
+$MODULE "D47"
+reference "D47"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  5.625000  5.400000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D47
+
+$MODULE "D57"
+reference "D57"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  5.625000  3.400000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D57
+
+$MODULE "D36"
+reference "D36"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  6.375000  2.350000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D36
+
+$MODULE "D35"
+reference "D35"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  6.375000  2.750000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D35
+
+$MODULE "D34"
+reference "D34"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  6.375000  3.150000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D34
+
+$MODULE "D33"
+reference "D33"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  6.375000  3.550000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D33
+
+$MODULE "R29"
+reference "R29"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  3.930000  2.230000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R29
+
+$MODULE "R26"
+reference "R26"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  4.680000  3.350000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R26
+
+$MODULE "R27"
+reference "R27"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  4.680000  2.550000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R27
+
+$MODULE "R28"
+reference "R28"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  3.930000  3.035000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R28
+
+$MODULE "D44"
+reference "D44"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.125000  2.030000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D44
+
+$MODULE "D43"
+reference "D43"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.125000  2.430000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D43
+
+$MODULE "D42"
+reference "D42"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.125000  2.830000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D42
+
+$MODULE "D41"
+reference "D41"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.125000  3.230000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D41
+
+$MODULE "D40"
+reference "D40"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.875000  2.350000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D40
+
+$MODULE "D39"
+reference "D39"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.875000  2.750000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D39
+
+$MODULE "D38"
+reference "D38"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.875000  3.150000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D38
+
+$MODULE "D37"
+reference "D37"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.875000  3.550000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D37
+
+$MODULE "X1"
+reference "X1"
+value "16MHz"
+footprint "XTAL"
+attribut smd
+position  3.267500  4.745000
+orientation  90.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/crystal_hc18u_baixo3pinos.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.100000  0.000000
+size  0.060000  0.060000
+drill  0.032000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "2"
+position  0.100000  0.000000
+size  0.060000  0.060000
+drill  0.032000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "~"
+position  0.000000  0.000000
+size  0.060000  0.060000
+drill  0.032000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$EndMODULE  X1
+
+$MODULE "P2"
+reference "P2"
+value "CONN_1"
+footprint "vite_3mm"
+attribut none
+position  3.350000  5.700000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/vite_2mm5.wrl"
+Sc 1.200000 1.200000 1.200000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.000000  0.000000
+size  0.200000  0.200000
+drill  0.120000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  P2
+
+$MODULE "P1"
+reference "P1"
+value "CONN_1"
+footprint "vite_3mm"
+attribut none
+position  3.350000  5.200000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/vite_2mm5.wrl"
+Sc 1.200000 1.200000 1.200000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.000000  0.000000
+size  0.200000  0.200000
+drill  0.120000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  P1
+
+$MODULE "SW3"
+reference "SW3"
+value "SW_ENT"
+footprint "SW_PB_V"
+attribut smd
+position  2.152500  2.842500
+orientation  270.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/SW_0773.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.000000  0.087500
+size  0.070000  0.070000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "2"
+position  0.000000 -0.087500
+size  0.070000  0.070000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position  0.100000  0.137500
+size  0.080000  0.080000
+drill  0.050000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position  0.100000 -0.137500
+size  0.080000  0.080000
+drill  0.050000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "2"
+position  0.150000 -0.050000
+size  0.070000  0.070000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "1"
+position  0.150000  0.050000
+size  0.070000  0.070000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  SW3
+
+$MODULE "SW2"
+reference "SW2"
+value "RST"
+footprint "SW_PB_V"
+attribut smd
+position  2.555000  2.842500
+orientation  270.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/SW_0773.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.000000  0.087500
+size  0.070000  0.070000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "2"
+position  0.000000 -0.087500
+size  0.070000  0.070000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position  0.100000  0.137500
+size  0.080000  0.080000
+drill  0.050000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position  0.100000 -0.137500
+size  0.080000  0.080000
+drill  0.050000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "2"
+position  0.150000 -0.050000
+size  0.070000  0.070000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "1"
+position  0.150000  0.050000
+size  0.070000  0.070000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  SW2
+
+$MODULE "D61"
+reference "D61"
+value "Z15V"
+footprint "SOD323F"
+attribut smd
+position  1.697500  5.437500
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/do214aa.wrl"
+Sc 0.500000 0.500000 0.500000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "2"
+position  0.042500  0.000000
+size  0.040000  0.035000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "1"
+position -0.042500  0.000000
+size  0.040000  0.035000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D61
+
+$MODULE "U3"
+reference "U3"
+value "ULN2803"
+footprint "SO18W"
+attribut smd
+position  3.335000  3.607500
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cms_so16.wrl"
+Sc 0.700000 0.700000 0.700000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.200000 -0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.150000 -0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "3"
+position -0.100000 -0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "4"
+position -0.050000 -0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "5"
+position  0.000000 -0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "6"
+position  0.050000 -0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "7"
+position  0.100000 -0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "8"
+position  0.150000 -0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "11"
+position  0.150000  0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "12"
+position  0.100000  0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "13"
+position  0.050000  0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "14"
+position  0.000000  0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "15"
+position -0.050000  0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "16"
+position -0.100000  0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "17"
+position -0.150000  0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "18"
+position -0.200000  0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "9"
+position  0.200000 -0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "10"
+position  0.200000  0.200000
+size  0.022000  0.060000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  U3
+
+$MODULE "U2"
+reference "U2"
+value "HEF4051B"
+footprint "SO16E"
+attribut smd
+position  3.225000  4.280000
+orientation  90.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cms_so16.wrl"
+Sc 0.500000 0.400000 0.500000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.175000 -0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.125000 -0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "3"
+position -0.075000 -0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "4"
+position -0.025000 -0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "5"
+position  0.025000 -0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "6"
+position  0.075000 -0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "7"
+position  0.125000 -0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "8"
+position  0.175000 -0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "9"
+position  0.175000  0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "10"
+position  0.125000  0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "11"
+position  0.075000  0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "12"
+position  0.025000  0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "13"
+position -0.025000  0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "14"
+position -0.075000  0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "15"
+position -0.125000  0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "16"
+position -0.175000  0.095000
+size  0.024000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  U2
+
+$MODULE "R13"
+reference "R13"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  2.820000  3.900000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R13
+
+$MODULE "R12"
+reference "R12"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  2.060000  5.300000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R12
+
+$MODULE "R10"
+reference "R10"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  2.060000  4.075000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R10
+
+$MODULE "R11"
+reference "R11"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  2.060000  4.875000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R11
+
+$MODULE "R1"
+reference "R1"
+value "10k"
+footprint "r_0805"
+attribut smd
+position  2.842500  2.880000
+orientation  90.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "R14"
+reference "R14"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  2.820000  4.700000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R14
+
+$MODULE "R15"
+reference "R15"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  4.320000  3.900000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R15
+
+$MODULE "R16"
+reference "R16"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  4.320000  4.700000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R16
+
+$MODULE "R17"
+reference "R17"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  5.070000  4.220000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R17
+
+$MODULE "R9"
+reference "R9"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  2.060000  3.255000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R9
+
+$MODULE "R8"
+reference "R8"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  2.550000  3.255000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R8
+
+$MODULE "R4"
+reference "R4"
+value "10k"
+footprint "r_0805"
+attribut smd
+position  1.785000  2.880000
+orientation  90.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R4
+
+$MODULE "R3"
+reference "R3"
+value "1k"
+footprint "r_0805"
+attribut smd
+position  2.625000  5.500000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R3
+
+$MODULE "R2"
+reference "R2"
+value "100E"
+footprint "r_0805"
+attribut smd
+position  3.800000  4.167500
+orientation  270.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R2
+
+$MODULE "R40"
+reference "R40"
+value "1k"
+footprint "r_0805"
+attribut smd
+position  3.092500  5.460000
+orientation  90.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R40
+
+$MODULE "R39"
+reference "R39"
+value "10k"
+footprint "r_0805"
+attribut smd
+position  4.260000  5.650000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R39
+
+$MODULE "R38"
+reference "R38"
+value "10k"
+footprint "r_0805"
+attribut smd
+position  4.260000  5.750000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  R38
+
+$MODULE "R18"
+reference "R18"
+value "120E"
+footprint "r_0805"
+attribut smd
+position  5.070000  5.020000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/r_0805.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.037500  0.000000
+size  0.051200  0.059000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  R18
+
+$MODULE "K3"
+reference "K3"
+value "I2C"
+footprint "pin_strip_4"
+attribut smd
+position  4.450000  5.750000
+orientation  270.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/pin_strip_4.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "4"
+position  0.150000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "1"
+position -0.150000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "2"
+position -0.050000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position  0.050000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  K3
+
+$MODULE "PCB1"
+reference "PCB1"
+value "PCB"
+footprint "PCB"
+attribut none
+position  4.500000  3.600000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/PCB_Material_3D.wrl"
+Sc 0.940000 0.500000 0.520000
+Of 0.000000 0.000000 -0.050000
+Ro 90.000000 0.000000 0.000000
+$EndSHAPE3D
+$EndMODULE  PCB1
+
+$MODULE "D63"
+reference "D63"
+value "PWR"
+footprint "led_0805"
+attribut smd
+position  2.945000  5.460000
+orientation  270.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  D63
+
+$MODULE "D60"
+reference "D60"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  3.375000  4.250000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D60
+
+$MODULE "D16"
+reference "D16"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.125000  4.100000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D16
+
+$MODULE "D22"
+reference "D22"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.875000  5.220000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D22
+
+$MODULE "D21"
+reference "D21"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.875000  4.820000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D21
+
+$MODULE "D20"
+reference "D20"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.875000  4.420000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D20
+
+$MODULE "D19"
+reference "D19"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.875000  4.020000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D19
+
+$MODULE "D18"
+reference "D18"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.125000  4.900000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D18
+
+$MODULE "D17"
+reference "D17"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.125000  4.500000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D17
+
+$MODULE "D58"
+reference "D58"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  3.375000  3.850000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D58
+
+$MODULE "D15"
+reference "D15"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.125000  3.700000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D15
+
+$MODULE "D14"
+reference "D14"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  2.625000  4.900000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D14
+
+$MODULE "D13"
+reference "D13"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  2.625000  4.500000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D13
+
+$MODULE "D12"
+reference "D12"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  2.625000  4.100000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D12
+
+$MODULE "D11"
+reference "D11"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  2.625000  3.700000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D11
+
+$MODULE "D10"
+reference "D10"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  4.125000  5.300000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D10
+
+$MODULE "D9"
+reference "D9"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  2.625000  5.300000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D9
+
+$MODULE "D8"
+reference "D8"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  1.850000  5.075000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D8
+
+$MODULE "D7"
+reference "D7"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  1.850000  4.675000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D7
+
+$MODULE "D6"
+reference "D6"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  1.850000  4.275000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D6
+
+$MODULE "D5"
+reference "D5"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  1.850000  3.875000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D5
+
+$MODULE "D4"
+reference "D4"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  1.850000  3.475000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D4
+
+$MODULE "D3"
+reference "D3"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  1.950000  3.075000
+orientation  270.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D3
+
+$MODULE "D2"
+reference "D2"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  2.350000  3.075000
+orientation  270.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D2
+
+$MODULE "D1"
+reference "D1"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  2.750000  3.075000
+orientation  270.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D1
+
+$MODULE "D54"
+reference "D54"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  3.375000  3.050000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D54
+
+$MODULE "D56"
+reference "D56"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  3.365000  3.450000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D56
+
+$MODULE "D52"
+reference "D52"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  3.375000  2.650000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D52
+
+$MODULE "D50"
+reference "D50"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  3.375000  2.250000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D50
+
+$MODULE "D48"
+reference "D48"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  3.375000  1.850000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D48
+
+$MODULE "D46"
+reference "D46"
+value "LED"
+footprint "led_0805"
+attribut smd
+position  3.375000  1.450000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
+Sc 0.750000 0.750000 0.750000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.040000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  D46
+
+$MODULE "TP1"
+reference "TP1"
+value "CONN_1"
+footprint "I/O"
+attribut smd
+position  3.172500  3.327500
+orientation  0.00
+layer component
+$PAD "1"
+position  0.000000  0.000000
+size  0.040000  0.040000
+drill  0.025000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  TP1
+
+$MODULE "TP2"
+reference "TP2"
+value "CONN_1"
+footprint "I/O"
+attribut smd
+position  3.745000  3.930000
+orientation  0.00
+layer component
+$PAD "1"
+position  0.000000  0.000000
+size  0.040000  0.040000
+drill  0.025000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  TP2
+
+$MODULE "TP3"
+reference "TP3"
+value "CONN_1"
+footprint "I/O"
+attribut smd
+position  4.042500  3.900000
+orientation  0.00
+layer component
+$PAD "1"
+position  0.000000  0.000000
+size  0.040000  0.040000
+drill  0.025000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  TP3
+
+$MODULE "TP4"
+reference "TP4"
+value "CONN_1"
+footprint "I/O"
+attribut smd
+position  4.042500  3.990000
+orientation  0.00
+layer component
+$PAD "1"
+position  0.000000  0.000000
+size  0.040000  0.040000
+drill  0.025000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  TP4
+
+$MODULE "K2"
+reference "K2"
+value "ISP"
+footprint "Header_ICSP"
+attribut smd
+position  3.900000  5.700000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/pin_strip_3x2.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.100000 -0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "2"
+position -0.100000  0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position  0.000000 -0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "4"
+position  0.000000  0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "5"
+position  0.100000 -0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "6"
+position  0.100000  0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$EndMODULE  K2
+
+$MODULE "K1"
+reference "K1"
+value "FTDI"
+footprint "Header_FTDI"
+attribut smd
+position  4.050000  5.900000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/pins_array_6x1.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.250000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "2"
+position -0.150000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "3"
+position -0.050000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "4"
+position  0.050000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "5"
+position  0.150000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "6"
+position  0.250000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  K1
+
+$MODULE "U1"
+reference "U1"
+value "ATMEGA328-P"
+footprint "DIP-28__300_ELL"
+attribut smd
+position  3.800000  4.580000
+orientation  90.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/dil_28-300.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "2"
+position -0.550000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "3"
+position -0.450000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "4"
+position -0.350000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "5"
+position -0.250000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "6"
+position -0.150000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "7"
+position -0.050000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "8"
+position  0.050000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "9"
+position  0.150000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "10"
+position  0.250000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "11"
+position  0.350000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "12"
+position  0.450000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "13"
+position  0.550000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "14"
+position  0.650000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "1"
+position -0.650000 -0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "15"
+position  0.650000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "16"
+position  0.550000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "17"
+position  0.450000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "18"
+position  0.350000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "19"
+position  0.250000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "20"
+position  0.150000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "21"
+position  0.050000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "22"
+position -0.050000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "23"
+position -0.150000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "24"
+position -0.250000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "25"
+position -0.350000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "26"
+position -0.450000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "27"
+position -0.550000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$PAD "28"
+position -0.650000  0.150000
+size  0.060000  0.090000
+drill  0.035000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Oval
+Layer  all
+$EndPAD
+$EndMODULE  U1
+
+$MODULE "C3"
+reference "C3"
+value "100u"
+footprint "C_ELCO_SMD"
+attribut smd
+position  1.700000  5.277500
+orientation  270.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/c_elec_5x5_3.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 90.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.000000 -0.090000
+size  0.064000  0.120000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.002500  0.090000
+size  0.064000  0.120000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  C3
+
+$MODULE "C7"
+reference "C7"
+value "100n"
+footprint "c_0805"
+attribut smd
+position  2.705000  5.365000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/c_tant_B.wrl"
+Sc 0.600000 0.600000 0.500000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  C7
+
+$MODULE "C8"
+reference "C8"
+value "100n"
+footprint "c_0805"
+attribut smd
+position  2.945000  5.880000
+orientation  90.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/c_tant_B.wrl"
+Sc 0.600000 0.600000 0.500000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  C8
+
+$MODULE "C1"
+reference "C1"
+value "100n"
+footprint "c_0805"
+attribut smd
+position  4.260000  5.775000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/c_tant_B.wrl"
+Sc 0.600000 0.600000 0.500000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  C1
+
+$MODULE "C5"
+reference "C5"
+value "100n"
+footprint "c_0805"
+attribut smd
+position  2.415000  5.365000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/c_tant_B.wrl"
+Sc 0.600000 0.600000 0.500000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  C5
+
+$MODULE "C4"
+reference "C4"
+value "100n"
+footprint "c_0805"
+attribut smd
+position  2.165000  5.365000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/c_tant_B.wrl"
+Sc 0.600000 0.600000 0.500000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  C4
+
+$MODULE "C2"
+reference "C2"
+value "100n"
+footprint "c_0805"
+attribut smd
+position  3.800000  4.530000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/c_tant_B.wrl"
+Sc 0.600000 0.600000 0.500000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position -0.040000  0.000000
+size  0.042000  0.056000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  C2
+
+$MODULE "P7"
+reference "P7"
+value "BATT_12V"
+footprint "bornier2"
+attribut none
+position  1.755000  5.720000
+orientation  180.00
+layer copper
+$SHAPE3D
+Na "BatMon_Libs/BatMon_3D/bornier_2.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.100000  0.000000
+size  0.100000  0.100000
+drill  0.060000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "2"
+position  0.100000  0.000000
+size  0.100000  0.100000
+drill  0.060000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  P7
+
+$MODULE "P3"
+reference "P3"
+value "HAND_HI"
+footprint "pin_strip_6b"
+attribut smd
+position  4.850000  5.900000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/pins_array_6x1.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.250000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "2"
+position -0.150000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position -0.050000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "4"
+position  0.050000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "5"
+position  0.150000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "6"
+position  0.250000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  P3
+
+$MODULE "P4"
+reference "P4"
+value "HAND_LO"
+footprint "pin_strip_6b"
+attribut smd
+position  4.850000  5.800000
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/pins_array_6x1.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.250000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "2"
+position -0.150000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position -0.050000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "4"
+position  0.050000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "5"
+position  0.150000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "6"
+position  0.250000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  P4
+
+$MODULE "P6"
+reference "P6"
+value "HAND_LO"
+footprint "pin_strip_6b"
+attribut smd
+position  4.152500  1.450000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/pins_array_6x1.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.250000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "2"
+position -0.150000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position -0.050000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "4"
+position  0.050000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "5"
+position  0.150000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "6"
+position  0.250000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  P6
+
+$MODULE "P5"
+reference "P5"
+value "HAND_HI"
+footprint "pin_strip_6b"
+attribut smd
+position  4.152500  1.350000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/pins_array_6x1.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.250000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "2"
+position -0.150000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position -0.050000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "4"
+position  0.050000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "5"
+position  0.150000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "6"
+position  0.250000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  P5
+
+$MODULE "Q1"
+reference "Q1"
+value "PNP"
+footprint "SOT223"
+attribut smd
+position  2.305000  5.485000
+orientation  90.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/SOT223.wrl"
+Sc 0.400000 0.400000 0.400000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "2"
+position  0.000000 -0.125000
+size  0.150000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "2"
+position  0.000000  0.125000
+size  0.060000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "3"
+position  0.090000  0.125000
+size  0.060000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$PAD "1"
+position -0.090000  0.125000
+size  0.060000  0.080000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  component
+$EndPAD
+$EndMODULE  Q1
+
+$MODULE "K5"
+reference "K5"
+value "V_SEL"
+footprint "Header_V_SEL"
+attribut smd
+position  3.062500  5.750000
+orientation  270.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/pin_strip_3.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.100000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "2"
+position  0.000000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position  0.100000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  K5
+
+$MODULE "K4"
+reference "K4"
+value "SERVO"
+footprint "Header_Ser"
+attribut smd
+position  3.650000  5.750000
+orientation  270.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/pin_strip_3.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.100000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "2"
+position  0.000000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position  0.100000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  K4
+
+$MODULE "U4"
+reference "U4"
+value "7809"
+footprint "DPAK-3"
+attribut smd
+position  2.290000  5.622500
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/SOT223.wrl"
+Sc 0.400000 0.400000 0.400000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "GND"
+position  0.000000  0.172500
+size  0.228000  0.244000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "VO"
+position  0.085000 -0.110000
+size  0.080000  0.120000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "VI"
+position -0.085000 -0.110000
+size  0.080000  0.120000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  U4
+
+$MODULE "U5"
+reference "U5"
+value "7805"
+footprint "DPAK-3"
+attribut smd
+position  2.702500  5.622500
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/SOT223.wrl"
+Sc 0.400000 0.400000 0.400000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "GND"
+position  0.000000  0.172500
+size  0.228000  0.244000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "VO"
+position  0.085000 -0.110000
+size  0.080000  0.120000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$PAD "VI"
+position -0.085000 -0.110000
+size  0.080000  0.120000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  copper
+$EndPAD
+$EndMODULE  U5
+
+$MODULE "IR1"
+reference "IR1"
+value "IRSENSOR"
+footprint "pin_strip_3"
+attribut smd
+position  3.840000  3.717500
+orientation  0.00
+layer copper
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/pin_strip_3.wrl"
+Sc 1.000000 1.000000 1.000000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position -0.100000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Rect
+Layer  all
+$EndPAD
+$PAD "2"
+position  0.000000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$PAD "3"
+position  0.100000  0.000000
+size  0.065000  0.065000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  IR1
+
+$MODULE "TP5"
+reference "TP5"
+value "CONN_1"
+footprint "I/O"
+attribut smd
+position  4.035000  4.730000
+orientation  0.00
+layer component
+$PAD "1"
+position  0.000000  0.000000
+size  0.040000  0.040000
+drill  0.025000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  TP5
+
+$MODULE "TP6"
+reference "TP6"
+value "CONN_1"
+footprint "I/O"
+attribut smd
+position  4.035000  4.830000
+orientation  0.00
+layer component
+$PAD "1"
+position  0.000000  0.000000
+size  0.040000  0.040000
+drill  0.025000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  TP6
+
+$MODULE "P9"
+reference "P9"
+value "CONN_1"
+footprint "vite_3mm"
+attribut none
+position  5.650000  2.050000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/vite_2mm5.wrl"
+Sc 1.200000 1.200000 1.200000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.000000  0.000000
+size  0.200000  0.200000
+drill  0.120000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  P9
+
+$MODULE "P8"
+reference "P8"
+value "CONN_1"
+footprint "vite_3mm"
+attribut none
+position  5.650000  1.550000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "stfu_Libs/stfu_3D/vite_2mm5.wrl"
+Sc 1.200000 1.200000 1.200000
+Of 0.000000 0.000000 0.000000
+Ro 0.000000 0.000000 0.000000
+$EndSHAPE3D
+$PAD "1"
+position  0.000000  0.000000
+size  0.200000  0.200000
+drill  0.120000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  all
+$EndPAD
+$EndMODULE  P8
+
+$LINE 
+start 3.800000 1.250000
+end 7.500000 1.250000
+width 0.015000
+$EndLINE 
+$LINE 
+start 3.050000 1.250000
+end 3.700000 1.250000
+width 0.015000
+$EndLINE 
+$LINE 
+start 5.200000 6.000000
+end 1.500000 6.000000
+width 0.015000
+$EndLINE 
+$LINE 
+start 5.950000 6.000000
+end 5.300000 6.000000
+width 0.015000
+$EndLINE 
+$LINE 
+start 3.800000 3.430000
+end 3.800000 1.250000
+width 0.015000
+$EndLINE 
+$LINE 
+start 4.550000 3.430000
+end 3.800000 3.430000
+width 0.015000
+$EndLINE 
+$LINE 
+start 4.550000 3.750000
+end 4.550000 3.430000
+width 0.015000
+$EndLINE 
+$LINE 
+start 5.300000 3.750000
+end 4.550000 3.750000
+width 0.015000
+$EndLINE 
+$LINE 
+start 5.300000 6.000000
+end 5.300000 3.750000
+width 0.015000
+$EndLINE 
+$LINE 
+start 5.200000 3.820000
+end 5.200000 6.000000
+width 0.015000
+$EndLINE 
+$LINE 
+start 4.450000 3.820000
+end 5.200000 3.820000
+width 0.015000
+$EndLINE 
+$LINE 
+start 4.450000 3.500000
+end 4.450000 3.820000
+width 0.015000
+$EndLINE 
+$LINE 
+start 3.700000 3.500000
+end 4.450000 3.500000
+width 0.015000
+$EndLINE 
+$LINE 
+start 3.700000 1.250000
+end 3.700000 3.500000
+width 0.015000
+$EndLINE 
+$LINE 
+start 1.500000 2.750000
+end 1.500000 6.000000
+width 0.015000
+$EndLINE 
+$LINE 
+start 3.050000 2.750000
+end 1.500000 2.750000
+width 0.015000
+$EndLINE 
+$LINE 
+start 3.050000 1.250000
+end 3.050000 2.750000
+width 0.015000
+$EndLINE 
+$LINE 
+start 7.500000 4.500000
+end 7.500000 1.250000
+width 0.015000
+$EndLINE 
+$LINE 
+start 5.950000 4.500000
+end 7.500000 4.500000
+width 0.015000
+$EndLINE 
+$LINE 
+start 5.950000 6.000000
+end 5.950000 4.500000
+width 0.015000
+$EndLINE 
+$EndDESCRIPTION

@@ -1,6 +1,6 @@
-update=Thursday 12 July 2012 10:53:06 PM IST
+update=7/13/2012 4:17:46 PM
 version=1
-last_client=kicad
+last_client=eeschema
 [cvpcb]
 version=1
 NetIExt=net
@@ -27,6 +27,8 @@ LastNetListRead=stfu.net
 LibDir=
 LibName1=stfu_Libs/stfu_parts
 LibName2=stfu_Libs/stfu_parts_2
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -61,5 +63,3 @@ LabSize=40
 [eeschema/libraries]
 LibName1=stfu_Libs/stfu
 LibName2=stfu_Libs/power
-[general]
-version=1
