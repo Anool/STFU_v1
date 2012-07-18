@@ -1,10 +1,10 @@
-Cmp-Mod V01 Created by CvPcb (2011-12-28 BZR 3254)-stable date = 7/18/2012 6:02:37 PM
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Wednesday 18 July 2012 10:00:26 PM IST
 
 BeginCmp
 TimeStamp = /5006A22B/5006A59F;
 Reference = BT1;
 ValeurCmp = BATT_Li;
-IdModule  = ;
+IdModule  = CR2032;
 EndCmp
 
 BeginCmp
@@ -46,7 +46,7 @@ BeginCmp
 TimeStamp = /5006A22B/5006A5D9;
 Reference = C6;
 ValeurCmp = 10u;
-IdModule  = c_0805;
+IdModule  = CP_5x11mm;
 EndCmp
 
 BeginCmp
@@ -67,14 +67,14 @@ BeginCmp
 TimeStamp = /5006A22B/5006A5DD;
 Reference = C9;
 ValeurCmp = 1n;
-IdModule  = c_0805;
+IdModule  = cnp_3mm_disc;
 EndCmp
 
 BeginCmp
 TimeStamp = /5006A22B/5006A5DB;
 Reference = C10;
 ValeurCmp = 47n;
-IdModule  = c_0805;
+IdModule  = cnp_3mm_disc;
 EndCmp
 
 BeginCmp
@@ -508,7 +508,7 @@ BeginCmp
 TimeStamp = /5006A22B/5006A7EE;
 Reference = D62;
 ValeurCmp = LED;
-IdModule  = led_0805;
+IdModule  = led_5mm_clear;
 EndCmp
 
 BeginCmp
@@ -522,7 +522,7 @@ BeginCmp
 TimeStamp = /5006A22B/5006A7D1;
 Reference = D64;
 ValeurCmp = LED;
-IdModule  = ;
+IdModule  = led_5mm_clear;
 EndCmp
 
 BeginCmp
@@ -655,7 +655,7 @@ BeginCmp
 TimeStamp = /5006A22B/5006A85E;
 Reference = Q2;
 ValeurCmp = NPN;
-IdModule  = SOT23-3;
+IdModule  = to92_2N5401;
 EndCmp
 
 BeginCmp
@@ -690,21 +690,21 @@ BeginCmp
 TimeStamp = /5006A22B/5006A5C8;
 Reference = R5;
 ValeurCmp = 20k;
-IdModule  = ;
+IdModule  = pin_strip_3x2;
 EndCmp
 
 BeginCmp
 TimeStamp = /5006A22B/5006A5BF;
 Reference = R6;
 ValeurCmp = 10k;
-IdModule  = r_0805;
+IdModule  = rc03_vert;
 EndCmp
 
 BeginCmp
 TimeStamp = /5006A22B/5006A5C1;
 Reference = R7;
 ValeurCmp = 1k;
-IdModule  = r_0805;
+IdModule  = rc03_vert;
 EndCmp
 
 BeginCmp
@@ -942,7 +942,7 @@ BeginCmp
 TimeStamp = /5006A22B/5006A5BB;
 Reference = R41;
 ValeurCmp = 120E;
-IdModule  = r_0805;
+IdModule  = rc03_vert;
 EndCmp
 
 BeginCmp
@@ -1047,7 +1047,7 @@ BeginCmp
 TimeStamp = /5006A22B/5006A58A;
 Reference = U6;
 ValeurCmp = NE555;
-IdModule  = ;
+IdModule  = DIP-8__300_ELL;
 EndCmp
 
 BeginCmp
