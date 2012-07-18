@@ -1,4 +1,4 @@
-### Module positions - created on 7/17/2012 5:31:47 PM ###
+### Module positions - created on 7/18/2012 2:56:04 PM ###
 ### Printed by Pcbnew version pcbnew (2011-12-28 BZR 3254)-stable
 ## Unit = inches, Angle = deg.
 ## Side : Back
@@ -61,17 +61,17 @@ R26      120E                 4.6800     3.3500       0.0    Back
 R27      120E                 4.6800     2.5500       0.0    Back
 R28      120E                 3.9300     3.0350       0.0    Back
 R29      120E                 3.9300     2.2300       0.0    Back
-R30      100E                 5.4300     5.6000       0.0    Back
-R31      100E                 5.4300     5.2000       0.0    Back
-R32      100E                 5.4300     4.8000       0.0    Back
-R33      100E                 5.4300     4.4000       0.0    Back
-R34      100E                 5.4300     4.0000       0.0    Back
-R35      100E                 5.4300     3.6000       0.0    Back
-R36      100E                 5.4300     3.2000       0.0    Back
-R37      100E                 5.4300     2.8000       0.0    Back
+R30      120E                 5.4300     5.6000       0.0    Back
+R31      120E                 5.4300     5.2000       0.0    Back
+R32      120E                 5.4300     4.8000       0.0    Back
+R33      120E                 5.4300     4.4000       0.0    Back
+R34      120E                 5.4300     4.0000       0.0    Back
+R35      120E                 5.4300     3.6000       0.0    Back
+R36      120E                 5.4300     3.2000       0.0    Back
+R37      120E                 5.4300     2.8000       0.0    Back
 R38      10k                  4.2600     5.7500     180.0    Back
 R39      10k                  4.2600     5.6500     180.0    Back
-R40      1k                   3.0925     5.4600      90.0    Back
+R40      120E                 3.0925     5.4600      90.0    Back
 SW2      RST                  2.6980     5.8890      90.0    Back
 SW3      SW_ENT               2.1980     5.8890      90.0    Back
 U1       ATMEGA328-P          3.7600     4.5800      90.0    Back
