@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  7/19/2012 3:49:48 PM
+PCBNEW-LibModule-V1  Thursday 19 July 2012 10:47:20 PM IST
 # encoding utf-8
 $INDEX
 C2
@@ -165,7 +165,7 @@ Ne 0 ""
 Po 0 4000
 $EndPAD
 $SHAPE3D
-Na "Nb_v1_libs//Nb_v1_3D//to220-2_horiz.wrl"
+Na "stfu_Libs/stfu_3D/to220-2_horiz.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -206,7 +206,7 @@ Ne 1 "GND"
 Po 1000 0
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\bornier_2.wrl"
+Na "stfu_Libs/stfu_3D/bornier_2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -243,7 +243,7 @@ Ne 2 "GND"
 Po 1000 0
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\capa_2pas_5x5mm.wrl"
+Na "stfu_Libs/stfu_3D/capa_2pas_5x5mm.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -280,7 +280,7 @@ Ne 1 "GND"
 Po 500 0
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\cnp_3mm_disc.wrl"
+Na "stfu_Libs/stfu_3D/cnp_3mm_disc.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -351,7 +351,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\batt-02.wrl"
+Na "stfu_Libs/stfu_3D/batt-02.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -405,7 +405,7 @@ Ne 1 "GNDA"
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\batt-02.wrl"
+Na "stfu_Libs/stfu_3D/batt-02.wrl"
 Sc 1.400000 1.400000 1.400000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 180.000000
@@ -491,7 +491,7 @@ Ne 4 "N-000045"
 Po -1500 -1500
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\dil_8-300_socket.wrl"
+Na "stfu_Libs/stfu_3D/dil_8-300_socket.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -582,7 +582,7 @@ Ne 2 "N-000012"
 Po -600 0
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\cree_clm3c.wrl"
+Na "stfu_Libs/stfu_3D/cree_clm3c.wrl"
 Sc 1.500000 1.500000 1.500000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -808,7 +808,7 @@ Ne 2 "/c3jr_v2-LED/R01"
 Po 0 500
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\led_5mm_clear.wrl"
+Na "stfu_Libs/stfu_3D/led_5mm_clear.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1213,7 +1213,7 @@ Ne 1 "/DBG"
 Po 1500 0
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\rc03.wrl"
+Na "stfu_Libs/stfu_3D/rc03.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1246,7 +1246,7 @@ Ne 2 "N-000129"
 Po 500 0
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\rc03vert.wrl"
+Na "stfu_Libs/stfu_3D/rc03vert.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1279,7 +1279,7 @@ Ne 2 "N-000129"
 Po 750 0
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\rc03vert.wrl"
+Na "stfu_Libs/stfu_3D/rc03vert.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1365,7 +1365,7 @@ Ne 5 "GND"
 Po 750 950
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\cms_so8.wrl"
+Na "stfu_Libs/stfu_3D/cms_so8.wrl"
 Sc 0.500000 0.350000 0.500000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1846,7 +1846,7 @@ Ne 2 "/LED_PWM"
 Po 0 -1220
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\sot89.wrl"
+Na "stfu_Libs/stfu_3D/sot89.wrl"
 Sc 1.500000 1.500000 1.500000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1897,7 +1897,7 @@ Ne 0 ""
 Po -886 1280
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\pcb_push.wrl"
+Na "stfu_Libs/stfu_3D/pcb_push.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2111,7 +2111,7 @@ Ne 3 "N-000139"
 Po 0 -1000
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\to92_3.wrl"
+Na "stfu_Libs/stfu_3D/to92_3.wrl"
 Sc 1.300000 1.000000 1.000000
 Of 0.000000 0.025000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2187,7 +2187,7 @@ Ne 1 "+6V"
 Po 0 -3500
 $EndPAD
 $SHAPE3D
-Na "stfu_Libs\\stfu_3D\\POT_T93Z.wrl"
+Na "stfu_Libs/stfu_3D/POT_T93Z.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 -0.050000 0.000000
 Ro 0.000000 0.000000 90.000000

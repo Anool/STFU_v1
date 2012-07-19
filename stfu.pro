@@ -1,13 +1,11 @@
-update=7/19/2012 5:57:33 PM
+update=Thursday 19 July 2012 10:53:32 PM IST
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[general]
-version=1
 [pcbnew]
 version=1
 PadDrlX=400
@@ -63,3 +61,5 @@ LabSize=40
 [eeschema/libraries]
 LibName1=stfu_Libs/stfu
 LibName2=stfu_Libs/power
+[general]
+version=1
