@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Wednesday 18 July 2012 10:05:39 PM IST
+EESchema Schematic File Version 2  date 7/19/2012 1:50:01 PM
 LIBS:stfu
 LIBS:power
 LIBS:stfu-cache
@@ -8,7 +8,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 3
 Title "STFU - a warning for incessant Noise polluters"
-Date "18 jul 2012"
+Date "19 jul 2012"
 Rev "A"
 Comp "anool.m@gmail.com"
 Comment1 ""

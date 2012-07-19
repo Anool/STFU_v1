@@ -1,17 +1,18 @@
 Drill report for C:\Users\Anool\Documents\Arduino\Project-STFU\stfu.brd
-Created on 7/17/2012 5:32:35 PM
+Created on 7/19/2012 4:19:27 PM
 Selected Drill Unit: Imperial (")
 
 Drill report for through holes :
-T1  0.025"  0.64mm  (96 holes)
-T2  0.032"  0.81mm  (3 holes)
+T1  0.025"  0.64mm  (106 holes)
+T2  0.032"  0.81mm  (11 holes)
 T3  0.035"  0.89mm  (28 holes)
-T4  0.040"  1.02mm  (57 holes)
+T4  0.040"  1.02mm  (91 holes)
 T5  0.050"  1.27mm  (4 holes)
 T6  0.060"  1.52mm  (2 holes)
-T7  0.120"  3.05mm  (4 holes)
+T7  0.080"  2.03mm  (4 holes)
+T8  0.120"  3.05mm  (4 holes)
 
-total plated holes count 194
+total plated holes count 250
 
 
 Drill report for Not Plated through holes :
