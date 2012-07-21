@@ -1,42 +1,43 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"R21,R32,R37,R36,R35,R34,R33,R31,R30,R19,R20,R22,R23,R24,R25,R29,R26,R27,R28,R13,R12,R10,R11,R14,R15,R16,R17,R9,R8,R2,R40,R18,R41";"r_0805";33;"120E";;;
-2;"X1";"XTAL";1;"16MHz";;;
-3;"P2,P1,P9,P8";"vite_3mm";4;"CONN_1";;;
-4;"D61";"SOD323F";1;"Z15V";;;
-5;"U3";"SO18W";1;"ULN2803";;;
-6;"U2";"SO16E";1;"HEF4051B";;;
-7;"R1,R4,R39,R38,R6";"r_0805";5;"10k";;;
-8;"R3,R7";"r_0805";2;"1k";;;
-9;"K3";"pin_strip_4";1;"I2C";;;
-10;"PCB1";"PCB";1;"PCB";;;
-11;"TP1,TP2,TP3,TP4,TP5,TP6";"I/O";6;"CONN_1";;;
-12;"K2";"Header_ICSP";1;"ISP";;;
-13;"K1";"Header_FTDI";1;"FTDI";;;
-14;"U1";"DIP-28__300_ELL";1;"ATMEGA328-P";;;
-15;"C3";"C_ELCO_SMD";1;"100u";;;
-16;"C7,C8,C1,C5,C4,C2,C6";"c_0805";7;"100n";;;
-17;"P3,P5";"pin_strip_6b";2;"HAND_HI";;;
-18;"P4,P6";"pin_strip_6b";2;"HAND_LO";;;
-19;"K5";"Header_V_SEL";1;"V_SEL";;;
-20;"K4";"Header_Ser";1;"SERVO";;;
-21;"U4";"DPAK-3";1;"7809";;;
-22;"U5";"DPAK-3";1;"7805";;;
-23;"IR1";"pin_strip_3";1;"IRSENSOR";;;
-24;"SW3";"SW_PB_V";1;"SW_ENT";;;
-25;"SW2";"SW_PB_V";1;"RST";;;
-26;"D63";"d_0805";1;"PWR";;;
-27;"D60,D59,D58,D57,D56,D55,D54,D53,D52,D51,D50,D49,D48,D47,D46,D45,D44,D43,D42,D41,D40,D39,D38,D37,D36,D35,D34,D33,D32,D31,D30,D29,D28,D27,D26,D25,D24,D23,D22,D21,D20,D19,D18,D17,D16,D15,D14,D13,D12,D11,D10,D9,D8,D7,D6,D5,D4,D3,D2,D1";"d_1206";60;"LED";;;
-28;"P7";"bornier2";1;"BATT_12V";;;
-29;"Q1";"sot223";1;"PNP";;;
-30;"P10";"pin_strip_2";1;"MOD";;;
-31;"C9";"c_0805";1;"1n";;;
-32;"C10";"c_0805";1;"47n";;;
-33;"R42";"r_0805";1;"47E";;;
-34;"R43";"r_0805";1;"220E";;;
-35;"BT1";"CR2032x2";1;"BATT_Li";;;
-36;"U6";"SO8E";1;"NE555";;;
-37;"D64";"led_5mm_clear";1;"IR_LED";;;
-38;"D62";"led_5mm_clear";1;"LED";;;
-39;"Q2";"to92_2N5401";1;"NPN";;;
-40;"SW1";"SW-PB";1;"SW_STFU";;;
-41;"R5";"R_Var";1;"20k";;;
+"Id"	"Designator"	"Package"	"Quantity"	"Designation"	"Supplier and ref"
+1	"BT1"	"CR2032x2"	1	"BATT_Li"	
+2	"C1,C6,C2,C4,C5,C8,C7"	"c_0805"	7	"100n"	
+3	"C10"	"c_0805"	1	"47n"	
+4	"C3"	"C_ELCO_SMD"	1	"100u"	
+5	"C9"	"c_0805"	1	"1n"	
+6	"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60"	"d_1206"	60	"LED"	
+7	"D61"	"SOD323F"	1	"Z15V"	
+8	"D62"	"led_5mm_clear"	1	"LED"	
+9	"D63"	"d_0805"	1	"PWR"	
+10	"D64"	"led_5mm_clear"	1	"IR_LED"	
+11	"IR1"	"pin_strip_3"	1	"IRSENSOR"	
+12	"K1"	"Header_FTDI"	1	"FTDI"	
+13	"K2"	"Header_ICSP"	1	"ISP"	
+14	"K3"	"pin_strip_4"	1	"I2C"	
+15	"K4"	"Header_Ser"	1	"SERVO"	
+16	"K5"	"Header_V_SEL"	1	"V_SEL"	
+17	"P10"	"pin_strip_2"	1	"MOD"	
+18	"P3,P5"	"pin_strip_6b"	2	"HAND_HI"	
+19	"P4,P6"	"pin_strip_6b"	2	"HAND_LO"	
+20	"P7"	"bornier2"	1	"BATT_12V"	
+21	"P8,P9,P1,P2"	"vite_3mm"	4	"CONN_1"	
+22	"PCB1"	"PCB"	1	"PCB"	
+23	"Q1"	"sot223"	1	"PNP"	
+24	"Q2"	"to92_2N5401"	1	"NPN"	
+25	"R1,R38,R39,R4"	"r_0805"	4	"10k"	
+26	"R2,R41,R6,R18,R40,R8,R9,R17,R16,R15,R14,R11,R10,R12,R13,R28,R27,R26,R29,R25,R24,R23,R22,R20,R19,R30,R31,R33,R34,R35,R36,R37,R32,R21"	"r_0805"	34	"120E"	
+27	"R3"	"r_0805"	1	"1k"	
+28	"R42"	"r_2512"	1	"47E"	
+29	"R43"	"r_0805"	1	"220E"	
+30	"R5"	"R_Var"	1	"10k"	
+31	"R7"	"r_0805"	1	"15k"	
+32	"SW1"	"SW-PB"	1	"SW_STFU"	
+33	"SW2"	"SW_PB_V"	1	"RST"	
+34	"SW3"	"SW_PB_V"	1	"SW_ENT"	
+35	"TP1,TP6,TP5,TP4,TP3,TP2"	"I/O"	6	"CONN_1"	
+36	"U1"	"DIP-28__300_ELL"	1	"ATMEGA328-P"	
+37	"U2"	"SO16E"	1	"HEF4051B"	
+38	"U3"	"SO18W"	1	"ULN2803"	
+39	"U4"	"DPAK-3"	1	"7809"	
+40	"U5"	"DPAK-3"	1	"7805"	
+41	"U6"	"SO8E"	1	"NE555"	
+42	"X1"	"XTAL"	1	"16MHz"	
